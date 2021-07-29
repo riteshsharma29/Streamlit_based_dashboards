@@ -8,6 +8,7 @@ import os
 
 '''
 requires pandas==1.2.4
+https://discuss.streamlit.io/t/change-background-color-based-on-value/2614/2
 '''
 
 def _max_width_():
