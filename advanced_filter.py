@@ -34,16 +34,16 @@ with center_column_1:
         Subcategory = st.selectbox('Select Product', Product)
         total = df[df[Category] == Subcategory][['Gross Amount','GST','Total Amount']].sum()
         total = total.to_list()
-        total_df = pd.DataFrame({"Customer":[Subcategory],"Gross Amount":[total[0]],"GST":[total[1]],"Total Amount":[total[2]]})
+        total_df = pd.DataFrame({"Product":[Subcategory],"Gross Amount":[total[0]],"GST":[total[1]],"Total Amount":[total[2]]})
 
 with right_column_1:
     st.markdown('Click Search Button')
     search = st.button("search")
 
-result = df[df[Category] == Subcategory]
 # rectifying Date format
-result['NewDate'] = result['Date'].dt.date
-result = result[['Customer Name', 'Invoice No.', 'NewDate', 'Product Name', 'Quantity','Rate', 'Gross Amount', 'GST', 'Total Amount']]
+df['NewDate'] = df['Date'].dt.date
+df = df[['Customer Name', 'Invoice No.', 'NewDate', 'Product Name', 'Quantity','Rate', 'Gross Amount', 'GST', 'Total Amount']]
+result = df[df[Category] == Subcategory]
 
 try:
     if search:
