@@ -2,6 +2,10 @@
 
 DOCUMENTATION : https://streamlit.io/
 
+All modules/dependencies can be installed using pip.
+
+To run any app : Goto the path where script and data folder is downloaded and kept. Then run this command streamlit run <script>
+
 Streamlit based data apps and dashboards
 
 1. <simple_data_dashboard.py> Simplest data apps / dashboard for olympic 2016 dataset. To launch the app run this command in cmd : streamlit run simple_data_dashboard.py
