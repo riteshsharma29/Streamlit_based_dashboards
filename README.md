@@ -16,4 +16,4 @@ Streamlit based data apps and dashboards
 2. <olympic.py> Live Olympics Tokyo 2020 Dashboard in Python 🐍 Streamlit! (https://www.streamlit.io/) & Plotly (https://plotly.com/)
 3. <dash_cert_report.py> Certificate validation report 
 4. <advanced_filter.py> Advanced filter reporting Dashboard.
-5. <slide_presentation_1.py> - Last 5 olympics Top 10 Countries using Python 🐍 Streamlit ! (https://www.streamlit.io/) with flavors of Plotly (https://plotly.com/. Have created last_5_olympic.xlsx by copying table from wiki for each olympic respectively then pasting it to raw.xlsx ==> running create_olypicdataset_top10.py ==> output then pasted to last_5_olympic.xlsx dataset. Done slight manual changes as well.
+5. <slide_presentation_1.py> - Last 5 olympics Top 10 Countries using Python 🐍 Streamlit ! (https://www.streamlit.io/) with flavors of Plotly (https://plotly.com/). Have created last_5_olympic.xlsx by copying table from wiki for each olympic respectively then pasting it to raw.xlsx ==> running create_olypicdataset_top10.py ==> output then pasted to last_5_olympic.xlsx dataset. Done slight manual changes as well.
