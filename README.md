@@ -18,4 +18,4 @@ Streamlit based data apps and dashboards
 4. <advanced_filter.py> Advanced filter reporting Dashboard.
 5. <slide_presentation_1.py> - Last 5 olympics Top 10 Countries using Python 🐍 Streamlit ! (https://www.streamlit.io/) with flavors of Plotly (https://plotly.com/). Have created last_5_olympic.xlsx by copying table from wiki for each olympic respectively then pasting it to raw.xlsx ==> running create_olypicdataset_top10.py ==> output then pasted to last_5_olympic.xlsx dataset. Done slight manual changes as well.
 6. <NLP.py> - Streamlit "Natural Language Processing" app: Created Streamlit "Natural Language Processing" app to perform NLTK functions.Requires gensim==3.8.3.
-  
+7. <lang_translation_app.py> - Streamlit Translation. Layout input is driven from data/language.xlsx.
