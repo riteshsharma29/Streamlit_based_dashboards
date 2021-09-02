@@ -19,7 +19,7 @@ st.title('Advanced Search/Filter Dashboard')
 st.markdown("In Python 🐍 Streamlit ! (https://www.streamlit.io/) & Pandas (https://pandas.pydata.org/)")
 
 # Align 3 widgets in 3 column
-left_column_1, center_column_1, right_column_1 = st.beta_columns(3)
+left_column_1, center_column_1, right_column_1 = st.columns(3)
 
 with left_column_1:
     Category = st.selectbox('Select Category', ["Customer Name","Product Name"])
