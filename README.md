@@ -1,6 +1,7 @@
 # Streamlit_based_dashboards
 
 DOCUMENTATION : https://streamlit.io/
+REFERENCES : https://discuss.streamlit.io/t/wide-layout-left-aligned-with-padding/7938
 
 ALL DEPENDECIES CAN BE INSTALLED USING pip.
 
