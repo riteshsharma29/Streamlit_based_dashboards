@@ -21,3 +21,4 @@ Streamlit based data apps and dashboards
 6. <NLP.py> - Streamlit "Natural Language Processing" app: Created Streamlit "Natural Language Processing" app to perform NLTK functions.Requires gensim==3.8.3.
 7. <lang_translation_app.py> - Streamlit Translation. Layout input is driven from data/language.xlsx.
 8. <latex.py> - Streamlit app to parse LaTex .tex files.
+9. <Streamlit_Scientific_calc.py> - Streamlit - Kalker Scientific Calculator app 
