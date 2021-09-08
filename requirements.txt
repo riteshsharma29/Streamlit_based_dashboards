@@ -3,3 +3,4 @@ pandas==1.2.4
 numpy==1.19.4
 xlrd==1.2.0
 mtranslate
+gTTS==2.2.3
