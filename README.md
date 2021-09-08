@@ -22,3 +22,4 @@ Streamlit based data apps and dashboards
 7. <lang_translation_app.py> - Streamlit Translation. Layout input is driven from data/language.xlsx.
 8. <latex.py> - Streamlit app to parse LaTex .tex files.
 9. <Streamlit_Scientific_calc.py> - Streamlit - Kalker Scientific Calculator app 
+10.<Streamlit_lang_translation_speech_app.py> - Streamlit Language Translation with text-to-speech converter. Layout input is driven from data/language.xlsx.
