@@ -2,3 +2,8 @@ streamlit==1.12.0
 spacy==3.4.0
 pandas==1.4.2
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/nl_core_news_sm-3.4.0/nl_core_news_sm-3.4.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.4.0/fr_core_news_sm-3.4.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.4.0/de_core_news_sm-3.4.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.4.0/es_core_news_sm-3.4.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/sv_core_news_sm-3.4.0/sv_core_news_sm-3.4.0.tar.gz
