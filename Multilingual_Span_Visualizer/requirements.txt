@@ -7,3 +7,4 @@ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.4.
 https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.4.0/de_core_news_sm-3.4.0.tar.gz
 https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.4.0/es_core_news_sm-3.4.0.tar.gz
 https://github.com/explosion/spacy-models/releases/download/sv_core_news_sm-3.4.0/sv_core_news_sm-3.4.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/it_core_news_sm-3.4.0/it_core_news_sm-3.4.0.tar.gz
