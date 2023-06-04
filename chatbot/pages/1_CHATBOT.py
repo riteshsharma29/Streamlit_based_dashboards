@@ -49,7 +49,7 @@ while (input_text != "") and (input_text != "exit") or (input_text == "bye") or 
         input_text = input_text.lower().strip()
 
     if (input_text == "exit") or (input_text == "bye") or (input_text == "quit"):
-        output = st.text_area("bot", "Thank you for using me ! Goodbye have a nice day ahead.", key=str(counter_2))
+        output = st.text_area("bot", "Thank you for using me ! Goodbye have a nice day ahead.", key=str(counter_2+1))
         break
 
     counter += 100
