@@ -33,7 +33,7 @@ def get_dict_value_by_key(kwd):
 counter = 100
 counter_2 = 1
 
-while (input_text != "") and (input_text != "exit"):
+while (input_text != "") and (input_text != "exit") or (input_text == "bye") or (input_text == "quit"):
     try:
         if get_dict_value_by_key(input_text) != None:
             output = st.text_area("bot", get_dict_value_by_key(input_text), key=str(counter_2),height=125)
@@ -48,7 +48,7 @@ while (input_text != "") and (input_text != "exit"):
         input_text = st.text_input("User: ", key=str(counter))
         input_text = input_text.lower().strip()
 
-    if (input_text == "exit") or (input_text == "bye") or ((input_text == "quit")):
+    if (input_text == "exit") or (input_text == "bye") or (input_text == "quit"):
         output = st.text_area("bot", "Thank you for using me ! Goodbye have a nice day ahead.", key=str(counter_2))
         break
 
