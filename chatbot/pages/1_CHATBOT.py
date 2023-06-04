@@ -16,7 +16,7 @@ mydict = {
     ("hi","hello"):"Hi, I am bot how can I help you ? will try to answer your python queries.",
     ("python","python language"):"Python is a high-level, general-purpose programming language.\nIts design philosophy emphasizes code readability with the use of significant indentation via the off-side rule.\nPython is dynamically typed and garbage-collected. ",
     ("web","web development","web development framework"):"Django https://www.djangoproject.com/ is best web development framework in Python.\nFlask https://flask.palletsprojects.com/ is second best",
-    ("modules","pypi"):"Search for any module here https://pypi.org/",
+    ("modules","pypi","module","library"):"Search for any module here https://pypi.org/",
     ("pip","what is pip"):"pip is python package manager",
     ("data analysis","pandas","data"): "Best Python data analysis library : https://pandas.pydata.org/",
     ("ml","machine learning"):"Best Python ML library/module is Scikit-learn https://scikit-learn.org/stable/",
