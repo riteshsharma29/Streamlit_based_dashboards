@@ -11,7 +11,7 @@ with help_1:
         - A simple ChatBot example using Python Streamlit Framework.
         - No Chatbot module OR library used. Q&A is handled through dictionary of Questions and Answers.  
         - For demoying have used Python based Questions and Answers.
-        - This just a proof of concept with regards to build a chatbot without any additional module so might not anwsers all questions.
+        - This is just a proof of concept with regards to building a chatbot without any additional module so might not anwsers all questions.
         - Type in the user input box to initiate the bot.
         - Type exit or quit in the user input box to terminate the bot.
         ''')
