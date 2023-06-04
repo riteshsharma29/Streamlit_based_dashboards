@@ -13,7 +13,7 @@ input_text = st.text_input("User: ",key=str(0))
 input_text = input_text.lower().strip()
 
 mydict = {
-    ("hi","hello"):"Hi, I am bot how can I help you",
+    ("hi","hello"):"Hi, I am bot how can I help you ? will try to answer your python queries.",
     ("python","python language"):"Python is a high-level, general-purpose programming language.\nIts design philosophy emphasizes code readability with the use of significant indentation via the off-side rule.\nPython is dynamically typed and garbage-collected. ",
     ("web","web development","web development framework"):"Django https://www.djangoproject.com/ is best web development framework in Python.\nFlask https://flask.palletsprojects.com/ is second best",
     ("modules","pypi"):"Search for any module here https://pypi.org/",
