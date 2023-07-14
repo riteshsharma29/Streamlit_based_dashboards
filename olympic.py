@@ -2,6 +2,8 @@ import pandas as pd
 import streamlit as st
 import plotly.graph_objects as go
 
+#youtube link : https://www.youtube.com/watch?v=wXwrqVqbexc&t=3s
+
 st.title('Live Olympics Tokyo 2020 Dashboard')
 st.markdown("Dashboard in Python 🐍 Streamlit! (https://www.streamlit.io/) & Plotly (https://plotly.com/)")
 
